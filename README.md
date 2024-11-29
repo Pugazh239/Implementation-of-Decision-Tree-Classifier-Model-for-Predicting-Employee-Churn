@@ -14,17 +14,22 @@ To write a program to implement the Decision Tree Classifier Model for Predictin
 4. 
 
 ## Program:
-```
+
 /*
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: 
-RegisterNumber:  
+Developed by: Pugazh sozhan A
+RegisterNumber:24000166
+![image](https://github.com/user-attachments/assets/95c435e2-5c37-4745-b229-60478b054849)
+
 */
-```
+
 
 ## Output:
-![decision tree classifier model](sam.png)
+![image](https://github.com/user-attachments/assets/80d598f8-605b-475c-8a59-77ef42d86392)
+![image](https://github.com/user-attachments/assets/df5410a1-e2a1-4f80-9980-67ab322bae0f)
+
+
 
 
 ## Result:
-Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written and verified using python programming.
+Thus the program to implement the  Decision Tree Classifier Model for Predicting Employee Churn is written 
